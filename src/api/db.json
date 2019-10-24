@@ -1,16 +1,1 @@
-{
-  "users": [
-    {
-      "id": 24050770,
-      "firstName": "Michael",
-      "lastName": "Koss",
-      "email": "Destiny_Zemlak76@yahoo.com"
-    },
-    {
-      "id": 55856229,
-      "firstName": "Oma",
-      "lastName": "Runolfsson",
-      "email": "Ford28@gmail.com"
-    }
-  ]
-}
+{"users":[{"id":5037798,"firstName":"Casandra","lastName":"Sporer","email":"Marta.Anderson@hotmail.com"},{"id":21812104,"firstName":"Sunny","lastName":"Mante","email":"Greta_Kunze@yahoo.com"},{"id":56518879,"firstName":"Heather","lastName":"Fadel","email":"Madisen47@hotmail.com"},{"id":6229059,"firstName":"Jacquelyn","lastName":"Balistreri","email":"Kaden.Schaefer@hotmail.com"}]}
